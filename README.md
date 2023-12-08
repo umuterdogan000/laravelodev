@@ -1,3 +1,25 @@
+
+![anasayfa](https://github.com/umuterdogan000/laravelodev/assets/86818236/50ec713a-8b48-402d-9030-9e1f944d8a51)
+
+![sepet_arayuz](https://github.com/umuterdogan000/laravelodev/assets/86818236/0b678258-9220-4e55-b987-87fea23a98b5)
+
+![urunler_arayuz](https://github.com/umuterdogan000/laravelodev/assets/86818236/e1814dcf-a52a-4f75-8c24-5fc854bce108)
+
+![iletisim_arayuz](https://github.com/umuterdogan000/laravelodev/assets/86818236/705cbc39-a484-4f16-9513-86163037d8b7)
+
+![resim_yükleme](https://github.com/umuterdogan000/laravelodev/assets/86818236/dc97f9de-e496-4049-aefb-2cfead7aa236)
+
+![panel_crud_arayuz](https://github.com/umuterdogan000/laravelodev/assets/86818236/bcc214ec-f16b-4a0d-ba74-03f2d858e675)
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
